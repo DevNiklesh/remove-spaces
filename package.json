@@ -1,6 +1,6 @@
 {
   "name": "@devniklesh/remove-spaces",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Removes spaces in a string",
   "main": "index.js",
   "repository": "https://github.com/DevNiklesh/remove-spaces",
