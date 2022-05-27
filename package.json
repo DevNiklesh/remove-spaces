@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Removes spaces in a string",
   "main": "index.js",
+  "repository": "https://github.com/DevNiklesh/remove-spaces",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
