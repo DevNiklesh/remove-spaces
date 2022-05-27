@@ -13,12 +13,12 @@ $ npm install @devniklesh/remove-spaces
 ## Usage
 
 ```js
-const tiny = require("@devniklesh/remove-spaces");
+const removeSpaces = require("@devniklesh/remove-spaces");
 
-tiny("So much space!");
+removeSpaces("So much space!");
 //=> "Somuchspace!"
 
-tiny(1337);
+removeSpaces(1337);
 //=> Uncaught TypeError: Tiny wants a string!
 //    at tiny (<anonymous>:2:41)
 //    at <anonymous>:1:1
