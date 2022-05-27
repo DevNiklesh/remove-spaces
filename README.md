@@ -19,7 +19,7 @@ removeSpaces("So much space!");
 //=> "Somuchspace!"
 
 removeSpaces(1337);
-//=> Uncaught TypeError: Tiny wants a string!
+//=> Uncaught TypeError: Remove spaces package wants a string!
 //    at tiny (<anonymous>:2:41)
 //    at <anonymous>:1:1
 ```
