@@ -1,7 +1,6 @@
 # @devniklesh/remove-spaces
 
-[![npm (scoped)](https://img.shields.io/npm/v/@devniklesh/remove-spaces.svg)](https://github.com/DevNiklesh/remove-spaces)
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@devniklesh/remove-spaces)](https://github.com/DevNiklesh/remove-spaces)
+[![npm (scoped)](https://img.shields.io/npm/v/@devniklesh/remove-spaces)](https://www.npmjs.com/package/@devniklesh/remove-spaces)
 
 Removes all spaces from a string.
 
