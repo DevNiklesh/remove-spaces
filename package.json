@@ -1,13 +1,13 @@
 {
   "name": "@devniklesh/remove-spaces",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Removes spaces in a string",
   "main": "index.js",
   "repository": "https://github.com/DevNiklesh/remove-spaces",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
+    "npm",
+    "package",
+    "devniklesh",
     "Remove",
     "spaces"
   ],
