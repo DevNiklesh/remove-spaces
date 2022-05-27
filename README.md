@@ -13,7 +13,7 @@ $ npm install @devniklesh/remove-spaces
 ## Usage
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@devniklesh/remove-spaces");
 
 tiny("So much space!");
 //=> "Somuchspace!"
